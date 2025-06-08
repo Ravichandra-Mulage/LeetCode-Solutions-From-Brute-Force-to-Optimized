@@ -3,4 +3,4 @@ This repo provides LeetCode problem solutions, organized by efficiency:
 
 Brute Force (Least efficient)  
 Optimized (Improved time/space complexity)  
-Most Efficient (Best possible approach)
+Most Efficient (Best approach)
